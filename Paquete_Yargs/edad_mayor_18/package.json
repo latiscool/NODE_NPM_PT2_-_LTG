@@ -1,0 +1,14 @@
+{
+  "name": "edad_mayor_18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "edad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.4.0"
+  }
+}
